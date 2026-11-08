@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+Thumbs.db
+# same content as Combined_Datasets/ (kept locally, not needed in the repo)
+Combined_Datasets.zip

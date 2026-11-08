@@ -1,0 +1,616 @@
+site_id,year,county_name,city_name,local_site_name,days_with_data,days_in_year,percent_days,pollutant
+48-013-1090,2020,Atascosa,Lytle,Von Ormy Highway 16,214,366,58.5,PM25
+48-013-1090,2021,Atascosa,Lytle,Von Ormy Highway 16,356,365,97.5,PM25
+48-013-1090,2022,Atascosa,Lytle,Von Ormy Highway 16,356,365,97.5,PM25
+48-013-1090,2023,Atascosa,Lytle,Von Ormy Highway 16,330,365,90.4,PM25
+48-013-1090,2024,Atascosa,Lytle,Von Ormy Highway 16,347,366,94.8,PM25
+48-027-1045,2020,Bell,Temple,Temple Georgia,351,366,95.9,PM25
+48-027-1045,2021,Bell,Temple,Temple Georgia,356,365,97.5,PM25
+48-027-1045,2022,Bell,Temple,Temple Georgia,355,365,97.3,PM25
+48-027-1045,2023,Bell,Temple,Temple Georgia,330,365,90.4,PM25
+48-027-1045,2024,Bell,Temple,Temple Georgia,350,366,95.6,PM25
+48-029-0032,2020,Bexar,Leon Valley,San Antonio Northwest,362,366,98.9,PM25
+48-029-0032,2021,Bexar,Leon Valley,San Antonio Northwest,359,365,98.4,PM25
+48-029-0032,2022,Bexar,Leon Valley,San Antonio Northwest,346,365,94.8,PM25
+48-029-0032,2023,Bexar,Leon Valley,San Antonio Northwest,353,365,96.7,PM25
+48-029-0032,2024,Bexar,Leon Valley,San Antonio Northwest,342,366,93.4,PM25
+48-029-0059,2020,Bexar,San Antonio,Calaveras Lake,342,366,93.4,PM25
+48-029-0059,2021,Bexar,San Antonio,Calaveras Lake,359,365,98.4,PM25
+48-029-0059,2022,Bexar,San Antonio,Calaveras Lake,359,365,98.4,PM25
+48-029-0059,2023,Bexar,San Antonio,Calaveras Lake,358,365,98.1,PM25
+48-029-0059,2024,Bexar,San Antonio,Calaveras Lake,350,366,95.6,PM25
+48-029-0677,2024,Bexar,San Antonio,Old Hwy 90,172,366,47.0,PM25
+48-029-1069,2020,Bexar,San Antonio,San Antonio Interstate 35,354,366,96.7,PM25
+48-029-1069,2021,Bexar,San Antonio,San Antonio Interstate 35,342,365,93.7,PM25
+48-029-1069,2022,Bexar,San Antonio,San Antonio Interstate 35,360,365,98.6,PM25
+48-029-1069,2023,Bexar,San Antonio,San Antonio Interstate 35,303,365,83.0,PM25
+48-029-1069,2024,Bexar,San Antonio,San Antonio Interstate 35,341,366,93.2,PM25
+48-029-1087,2023,Bexar,San Antonio,San Antonio Bulverde Parkway,41,365,11.2,PM25
+48-029-1087,2024,Bexar,San Antonio,San Antonio Bulverde Parkway,363,366,99.2,PM25
+48-037-1031,2020,Bowie,Texarkana,Texarkana New Boston,358,366,97.8,PM25
+48-037-1031,2021,Bowie,Texarkana,Texarkana New Boston,357,365,97.8,PM25
+48-037-1031,2022,Bowie,Texarkana,Texarkana New Boston,349,365,95.6,PM25
+48-037-1031,2023,Bowie,Texarkana,Texarkana New Boston,321,365,87.9,PM25
+48-037-1031,2024,Bowie,Texarkana,Texarkana New Boston,360,366,98.4,PM25
+48-039-1012,2023,Brazoria,Freeport,Freeport South Avenue I,47,365,12.9,PM25
+48-039-1012,2024,Brazoria,Freeport,Freeport South Avenue I,61,366,16.7,PM25
+48-041-1086,2020,Brazos,College Station,Bryan Finfeather Road,303,366,82.8,PM25
+48-041-1086,2021,Brazos,College Station,Bryan Finfeather Road,356,365,97.5,PM25
+48-041-1086,2022,Brazos,College Station,Bryan Finfeather Road,345,365,94.5,PM25
+48-041-1086,2023,Brazos,College Station,Bryan Finfeather Road,348,365,95.3,PM25
+48-041-1086,2024,Brazos,College Station,Bryan Finfeather Road,353,366,96.4,PM25
+48-043-0101,2020,Brewster,Not in a city,Big Bend NP,310,366,84.7,PM25
+48-043-0101,2021,Brewster,Not in a city,Big Bend NP,340,365,93.2,PM25
+48-043-0101,2022,Brewster,Not in a city,Big Bend NP,343,365,94.0,PM25
+48-043-0101,2023,Brewster,Not in a city,Big Bend NP,298,365,81.6,PM25
+48-043-0101,2024,Brewster,Not in a city,Big Bend NP,296,366,80.9,PM25
+48-061-0006,2020,Cameron,Brownsville,Brownsville,354,366,96.7,PM25
+48-061-0006,2021,Cameron,Brownsville,Brownsville,350,365,95.9,PM25
+48-061-0006,2022,Cameron,Brownsville,Brownsville,335,365,91.8,PM25
+48-061-0006,2023,Cameron,Brownsville,Brownsville,93,365,25.5,PM25
+48-061-1098,2023,Cameron,Brownsville,Brownsville East 6th Street,255,365,69.9,PM25
+48-061-1098,2024,Cameron,Brownsville,Brownsville East 6th Street,349,366,95.4,PM25
+48-061-2004,2020,Cameron,South Padre Island,Isla Blanca State Park Road,306,366,83.6,PM25
+48-061-2004,2021,Cameron,South Padre Island,Isla Blanca State Park Road,318,365,87.1,PM25
+48-061-2004,2022,Cameron,South Padre Island,Isla Blanca State Park Road,347,365,95.1,PM25
+48-061-2004,2023,Cameron,South Padre Island,Isla Blanca State Park Road,363,365,99.5,PM25
+48-061-2004,2024,Cameron,South Padre Island,Isla Blanca State Park Road,324,366,88.5,PM25
+48-113-0050,2020,Dallas,Dallas,Convention Center,110,366,30.1,PM25
+48-113-0050,2021,Dallas,Dallas,Convention Center,112,365,30.7,PM25
+48-113-0050,2022,Dallas,Dallas,Convention Center,273,365,74.8,PM25
+48-113-0050,2023,Dallas,Dallas,Convention Center,339,365,92.9,PM25
+48-113-0050,2024,Dallas,Dallas,Convention Center,340,366,92.9,PM25
+48-113-0069,2020,Dallas,Dallas,Dallas Hinton,351,366,95.9,PM25
+48-113-0069,2021,Dallas,Dallas,Dallas Hinton,348,365,95.3,PM25
+48-113-0069,2022,Dallas,Dallas,Dallas Hinton,324,365,88.8,PM25
+48-113-0069,2023,Dallas,Dallas,Dallas Hinton,356,365,97.5,PM25
+48-113-0069,2024,Dallas,Dallas,Dallas Hinton,328,366,89.6,PM25
+48-121-0034,2020,Denton,Denton,Denton Airport South,360,366,98.4,PM25
+48-121-0034,2021,Denton,Denton,Denton Airport South,350,365,95.9,PM25
+48-121-0034,2022,Denton,Denton,Denton Airport South,355,365,97.3,PM25
+48-121-0034,2023,Denton,Denton,Denton Airport South,355,365,97.3,PM25
+48-121-0034,2024,Denton,Denton,Denton Airport South,312,366,85.2,PM25
+48-135-1014,2020,Ector,Odessa,Odessa Gonzales,346,366,94.5,PM25
+48-135-1014,2021,Ector,Odessa,Odessa Gonzales,349,365,95.6,PM25
+48-135-1014,2022,Ector,Odessa,Odessa Gonzales,360,365,98.6,PM25
+48-135-1014,2023,Ector,Odessa,Odessa Gonzales,355,365,97.3,PM25
+48-135-1014,2024,Ector,Odessa,Odessa Gonzales,356,366,97.3,PM25
+48-139-0016,2020,Ellis,Midlothian,Midlothian OFW,59,366,16.1,PM25
+48-139-0016,2021,Ellis,Midlothian,Midlothian OFW,59,365,16.2,PM25
+48-139-0016,2022,Ellis,Midlothian,Midlothian OFW,18,365,4.9,PM25
+48-141-0037,2020,El Paso,El Paso,El Paso UTEP,59,366,16.1,PM25
+48-141-0037,2021,El Paso,El Paso,El Paso UTEP,47,365,12.9,PM25
+48-141-0044,2020,El Paso,El Paso,El Paso Chamizal,350,366,95.6,PM25
+48-141-0044,2021,El Paso,El Paso,El Paso Chamizal,349,365,95.6,PM25
+48-141-0044,2022,El Paso,El Paso,El Paso Chamizal,338,365,92.6,PM25
+48-141-0044,2023,El Paso,El Paso,El Paso Chamizal,355,365,97.3,PM25
+48-141-0044,2024,El Paso,El Paso,El Paso Chamizal,305,366,83.3,PM25
+48-141-0055,2024,El Paso,El Paso,Ascarate Park SE,232,366,63.4,PM25
+48-141-0057,2024,El Paso,Socorro,Socorro Hueco,175,366,47.8,PM25
+48-167-1034,2020,Galveston,Galveston,Galveston 99th Street,323,366,88.3,PM25
+48-167-1034,2021,Galveston,Galveston,Galveston 99th Street,345,365,94.5,PM25
+48-167-1034,2022,Galveston,Galveston,Galveston 99th Street,348,365,95.3,PM25
+48-167-1034,2023,Galveston,Galveston,Galveston 99th Street,317,365,86.8,PM25
+48-167-1034,2024,Galveston,Galveston,Galveston 99th Street,331,366,90.4,PM25
+48-201-0024,2020,Harris,Houston,Houston Aldine,361,366,98.6,PM25
+48-201-0024,2021,Harris,Houston,Houston Aldine,355,365,97.3,PM25
+48-201-0024,2022,Harris,Houston,Houston Aldine,360,365,98.6,PM25
+48-201-0024,2023,Harris,Houston,Houston Aldine,357,365,97.8,PM25
+48-201-0024,2024,Harris,Houston,Houston Aldine,344,366,94.0,PM25
+48-201-0046,2021,Harris,Houston,Houston North Wayside,230,365,63.0,PM25
+48-201-0046,2022,Harris,Houston,Houston North Wayside,355,365,97.3,PM25
+48-201-0046,2023,Harris,Houston,Houston North Wayside,344,365,94.2,PM25
+48-201-0046,2024,Harris,Houston,Houston North Wayside,330,366,90.2,PM25
+48-201-0055,2022,Harris,Houston,Houston Bayland Park,226,365,61.9,PM25
+48-201-0055,2023,Harris,Houston,Houston Bayland Park,361,365,98.9,PM25
+48-201-0055,2024,Harris,Houston,Houston Bayland Park,346,366,94.5,PM25
+48-201-0058,2020,Harris,Baytown,Baytown,352,366,96.2,PM25
+48-201-0058,2021,Harris,Baytown,Baytown,355,365,97.3,PM25
+48-201-0058,2022,Harris,Baytown,Baytown,360,365,98.6,PM25
+48-201-0058,2023,Harris,Baytown,Baytown,352,365,96.4,PM25
+48-201-0058,2024,Harris,Baytown,Baytown,316,366,86.3,PM25
+48-201-0066,2021,Harris,Houston,Houston Westhollow,263,365,72.1,PM25
+48-201-0066,2022,Harris,Houston,Houston Westhollow,344,365,94.2,PM25
+48-201-0066,2023,Harris,Houston,Houston Westhollow,345,365,94.5,PM25
+48-201-0066,2024,Harris,Houston,Houston Westhollow,339,366,92.6,PM25
+48-201-1034,2020,Harris,Houston,Houston East,349,366,95.4,PM25
+48-201-1034,2021,Harris,Houston,Houston East,340,365,93.2,PM25
+48-201-1034,2022,Harris,Houston,Houston East,350,365,95.9,PM25
+48-201-1034,2023,Harris,Houston,Houston East,355,365,97.3,PM25
+48-201-1034,2024,Harris,Houston,Houston East,333,366,91.0,PM25
+48-201-1035,2020,Harris,Houston,Clinton,339,366,92.6,PM25
+48-201-1035,2021,Harris,Houston,Clinton,340,365,93.2,PM25
+48-201-1035,2022,Harris,Houston,Clinton,341,365,93.4,PM25
+48-201-1035,2023,Harris,Houston,Clinton,350,365,95.9,PM25
+48-201-1035,2024,Harris,Houston,Clinton,344,366,94.0,PM25
+48-201-1039,2020,Harris,Deer Park,Houston Deer Park #2,337,366,92.1,PM25
+48-201-1039,2021,Harris,Deer Park,Houston Deer Park #2,342,365,93.7,PM25
+48-201-1039,2022,Harris,Deer Park,Houston Deer Park #2,342,365,93.7,PM25
+48-201-1039,2023,Harris,Deer Park,Houston Deer Park #2,363,365,99.5,PM25
+48-201-1039,2024,Harris,Deer Park,Houston Deer Park #2,363,366,99.2,PM25
+48-201-1050,2021,Harris,Seabrook,Seabrook Friendship Park,92,365,25.2,PM25
+48-201-1050,2022,Harris,Seabrook,Seabrook Friendship Park,352,365,96.4,PM25
+48-201-1050,2023,Harris,Seabrook,Seabrook Friendship Park,363,365,99.5,PM25
+48-201-1050,2024,Harris,Seabrook,Seabrook Friendship Park,355,366,97.0,PM25
+48-201-1052,2020,Harris,Houston,Houston North Loop,118,366,32.2,PM25
+48-201-1052,2021,Harris,Houston,Houston North Loop,267,365,73.2,PM25
+48-201-1052,2022,Harris,Houston,Houston North Loop,349,365,95.6,PM25
+48-201-1052,2023,Harris,Houston,Houston North Loop,342,365,93.7,PM25
+48-201-1052,2024,Harris,Houston,Houston North Loop,341,366,93.2,PM25
+48-203-0002,2020,Harrison,Not in a city,Karnack,59,366,16.1,PM25
+48-203-0002,2021,Harrison,Not in a city,Karnack,240,365,65.8,PM25
+48-203-0002,2022,Harrison,Not in a city,Karnack,312,365,85.5,PM25
+48-203-0002,2023,Harrison,Not in a city,Karnack,353,365,96.7,PM25
+48-203-0002,2024,Harrison,Not in a city,Karnack,356,366,97.3,PM25
+48-215-0043,2020,Hidalgo,Mission,Mission,359,366,98.1,PM25
+48-215-0043,2021,Hidalgo,Mission,Mission,355,365,97.3,PM25
+48-215-0043,2022,Hidalgo,Mission,Mission,287,365,78.6,PM25
+48-215-0043,2023,Hidalgo,Mission,Mission,82,365,22.5,PM25
+48-215-0043,2024,Hidalgo,Mission,Mission,365,366,99.7,PM25
+48-215-1046,2020,Hidalgo,Edinburg,Edinburg East Freddy Gonzalez Drive,108,366,29.5,PM25
+48-215-1046,2021,Hidalgo,Edinburg,Edinburg East Freddy Gonzalez Drive,116,365,31.8,PM25
+48-215-1046,2022,Hidalgo,Edinburg,Edinburg East Freddy Gonzalez Drive,254,365,69.6,PM25
+48-215-1046,2023,Hidalgo,Edinburg,Edinburg East Freddy Gonzalez Drive,320,365,87.7,PM25
+48-215-1046,2024,Hidalgo,Edinburg,Edinburg East Freddy Gonzalez Drive,365,366,99.7,PM25
+48-245-0021,2020,Jefferson,Port Arthur,Port Arthur Memorial School,348,366,95.1,PM25
+48-245-0021,2021,Jefferson,Port Arthur,Port Arthur Memorial School,344,365,94.2,PM25
+48-245-0021,2022,Jefferson,Port Arthur,Port Arthur Memorial School,364,365,99.7,PM25
+48-245-0021,2023,Jefferson,Port Arthur,Port Arthur Memorial School,364,365,99.7,PM25
+48-245-0021,2024,Jefferson,Port Arthur,Port Arthur Memorial School,361,366,98.6,PM25
+48-245-0022,2020,Jefferson,Not in a city,Hamshire,296,366,80.9,PM25
+48-245-0022,2021,Jefferson,Not in a city,Hamshire,357,365,97.8,PM25
+48-245-0022,2022,Jefferson,Not in a city,Hamshire,349,365,95.6,PM25
+48-245-0022,2023,Jefferson,Not in a city,Hamshire,280,365,76.7,PM25
+48-245-0022,2024,Jefferson,Not in a city,Hamshire,349,366,95.4,PM25
+48-257-0005,2022,Kaufman,Kaufman,Kaufman,244,365,66.8,PM25
+48-257-0005,2023,Kaufman,Kaufman,Kaufman,354,365,97.0,PM25
+48-257-0005,2024,Kaufman,Kaufman,Kaufman,340,366,92.9,PM25
+48-273-0314,2020,Kleberg,Corpus Christi,National Seashore,330,366,90.2,PM25
+48-273-0314,2021,Kleberg,Corpus Christi,National Seashore,348,365,95.3,PM25
+48-273-0314,2022,Kleberg,Corpus Christi,National Seashore,346,365,94.8,PM25
+48-273-0314,2023,Kleberg,Corpus Christi,National Seashore,329,365,90.1,PM25
+48-273-0314,2024,Kleberg,Corpus Christi,National Seashore,349,366,95.4,PM25
+48-303-1028,2020,Lubbock,Lubbock,Lubbock 12th Street,352,366,96.2,PM25
+48-303-1028,2021,Lubbock,Lubbock,Lubbock 12th Street,347,365,95.1,PM25
+48-303-1028,2022,Lubbock,Lubbock,Lubbock 12th Street,347,365,95.1,PM25
+48-303-1028,2023,Lubbock,Lubbock,Lubbock 12th Street,364,365,99.7,PM25
+48-303-1028,2024,Lubbock,Lubbock,Lubbock 12th Street,358,366,97.8,PM25
+48-323-0004,2020,Maverick,Eagle Pass,Eagle Pass,347,366,94.8,PM25
+48-323-0004,2021,Maverick,Eagle Pass,Eagle Pass,353,365,96.7,PM25
+48-323-0004,2022,Maverick,Eagle Pass,Eagle Pass,348,365,95.3,PM25
+48-323-0004,2023,Maverick,Eagle Pass,Eagle Pass,330,365,90.4,PM25
+48-323-0004,2024,Maverick,Eagle Pass,Eagle Pass,338,366,92.3,PM25
+48-339-0078,2021,Montgomery,Conroe,Conroe Relocated,91,365,24.9,PM25
+48-339-0078,2022,Montgomery,Conroe,Conroe Relocated,352,365,96.4,PM25
+48-339-0078,2023,Montgomery,Conroe,Conroe Relocated,363,365,99.5,PM25
+48-339-0078,2024,Montgomery,Conroe,Conroe Relocated,358,366,97.8,PM25
+48-349-1051,2022,Navarro,Corsicana,Corsicana Airport,247,365,67.7,PM25
+48-349-1051,2023,Navarro,Corsicana,Corsicana Airport,317,365,86.8,PM25
+48-349-1051,2024,Navarro,Corsicana,Corsicana Airport,358,366,97.8,PM25
+48-355-0032,2020,Nueces,Corpus Christi,Corpus Christi Huisache,361,366,98.6,PM25
+48-355-0032,2021,Nueces,Corpus Christi,Corpus Christi Huisache,361,365,98.9,PM25
+48-355-0032,2022,Nueces,Corpus Christi,Corpus Christi Huisache,342,365,93.7,PM25
+48-355-0032,2023,Nueces,Corpus Christi,Corpus Christi Huisache,355,365,97.3,PM25
+48-355-0032,2024,Nueces,Corpus Christi,Corpus Christi Huisache,364,366,99.5,PM25
+48-355-0034,2020,Nueces,Corpus Christi,Dona Park,53,366,14.5,PM25
+48-355-0034,2021,Nueces,Corpus Christi,Dona Park,60,365,16.4,PM25
+48-355-0034,2022,Nueces,Corpus Christi,Dona Park,208,365,57.0,PM25
+48-355-0034,2023,Nueces,Corpus Christi,Dona Park,361,365,98.9,PM25
+48-355-0034,2024,Nueces,Corpus Christi,Dona Park,364,366,99.5,PM25
+48-361-1100,2020,Orange,West Orange,,354,366,96.7,PM25
+48-361-1100,2021,Orange,West Orange,,355,365,97.3,PM25
+48-361-1100,2022,Orange,West Orange,,343,365,94.0,PM25
+48-361-1100,2023,Orange,West Orange,,338,365,92.6,PM25
+48-361-1100,2024,Orange,West Orange,,323,366,88.3,PM25
+48-375-0320,2020,Potter,Amarillo,Amarillo A&M,341,366,93.2,PM25
+48-375-0320,2021,Potter,Amarillo,Amarillo A&M,354,365,97.0,PM25
+48-375-0320,2022,Potter,Amarillo,Amarillo A&M,359,365,98.4,PM25
+48-375-0320,2023,Potter,Amarillo,Amarillo A&M,360,365,98.6,PM25
+48-375-0320,2024,Potter,Amarillo,Amarillo A&M,315,366,86.1,PM25
+48-375-1025,2024,Potter,Amarillo,Amarillo 24th Avenue,21,366,5.7,PM25
+48-439-1002,2020,Tarrant,Fort Worth,Fort Worth Northwest,341,366,93.2,PM25
+48-439-1002,2021,Tarrant,Fort Worth,Fort Worth Northwest,350,365,95.9,PM25
+48-439-1002,2022,Tarrant,Fort Worth,Fort Worth Northwest,350,365,95.9,PM25
+48-439-1002,2023,Tarrant,Fort Worth,Fort Worth Northwest,341,365,93.4,PM25
+48-439-1002,2024,Tarrant,Fort Worth,Fort Worth Northwest,342,366,93.4,PM25
+48-439-1006,2020,Tarrant,Fort Worth,Haws Athletic Center,342,366,93.4,PM25
+48-439-1006,2021,Tarrant,Fort Worth,Haws Athletic Center,334,365,91.5,PM25
+48-439-1006,2022,Tarrant,Fort Worth,Haws Athletic Center,357,365,97.8,PM25
+48-439-1006,2023,Tarrant,Fort Worth,Haws Athletic Center,354,365,97.0,PM25
+48-439-1006,2024,Tarrant,Fort Worth,Haws Athletic Center,344,366,94.0,PM25
+48-439-1053,2020,Tarrant,Fort Worth,Fort Worth California Parkway North,361,366,98.6,PM25
+48-439-1053,2021,Tarrant,Fort Worth,Fort Worth California Parkway North,353,365,96.7,PM25
+48-439-1053,2022,Tarrant,Fort Worth,Fort Worth California Parkway North,355,365,97.3,PM25
+48-439-1053,2023,Tarrant,Fort Worth,Fort Worth California Parkway North,356,365,97.5,PM25
+48-439-1053,2024,Tarrant,Fort Worth,Fort Worth California Parkway North,342,366,93.4,PM25
+48-453-0014,2020,Travis,Austin,Austin North Hills Drive,76,366,20.8,PM25
+48-453-0014,2021,Travis,Austin,Austin North Hills Drive,346,365,94.8,PM25
+48-453-0014,2022,Travis,Austin,Austin North Hills Drive,344,365,94.2,PM25
+48-453-0014,2023,Travis,Austin,Austin North Hills Drive,342,365,93.7,PM25
+48-453-0014,2024,Travis,Austin,Austin North Hills Drive,357,366,97.5,PM25
+48-453-0021,2020,Travis,Austin,Austin Webberville Rd,359,366,98.1,PM25
+48-453-0021,2021,Travis,Austin,Austin Webberville Rd,337,365,92.3,PM25
+48-453-0021,2022,Travis,Austin,Austin Webberville Rd,347,365,95.1,PM25
+48-453-0021,2023,Travis,Austin,Austin Webberville Rd,355,365,97.3,PM25
+48-453-0021,2024,Travis,Austin,Austin Webberville Rd,366,366,100.0,PM25
+48-453-1068,2020,Travis,Austin,Austin North Interstate 35,347,366,94.8,PM25
+48-453-1068,2021,Travis,Austin,Austin North Interstate 35,353,365,96.7,PM25
+48-453-1068,2022,Travis,Austin,Austin North Interstate 35,365,365,100.0,PM25
+48-453-1068,2023,Travis,Austin,Austin North Interstate 35,355,365,97.3,PM25
+48-453-1068,2024,Travis,Austin,Austin North Interstate 35,346,366,94.5,PM25
+48-479-0313,2020,Webb,Laredo,World Trade Bridge,348,366,95.1,PM25
+48-479-0313,2021,Webb,Laredo,World Trade Bridge,358,365,98.1,PM25
+48-479-0313,2022,Webb,Laredo,World Trade Bridge,361,365,98.9,PM25
+48-479-0313,2023,Webb,Laredo,World Trade Bridge,350,365,95.9,PM25
+48-479-0313,2024,Webb,Laredo,World Trade Bridge,340,366,92.9,PM25
+48-027-1045,2020,Bell,Temple,Temple Georgia,364,366,99.5,Ozone
+48-027-1045,2021,Bell,Temple,Temple Georgia,357,365,97.8,Ozone
+48-027-1045,2022,Bell,Temple,Temple Georgia,362,365,99.2,Ozone
+48-027-1045,2023,Bell,Temple,Temple Georgia,365,365,100.0,Ozone
+48-027-1045,2024,Bell,Temple,Temple Georgia,353,366,96.4,Ozone
+48-027-1047,2020,Bell,Killeen,Killeen Skylark Field,365,366,99.7,Ozone
+48-027-1047,2021,Bell,Killeen,Killeen Skylark Field,363,365,99.5,Ozone
+48-027-1047,2022,Bell,Killeen,Killeen Skylark Field,345,365,94.5,Ozone
+48-027-1047,2023,Bell,Killeen,Killeen Skylark Field,349,365,95.6,Ozone
+48-027-1047,2024,Bell,Killeen,Killeen Skylark Field,361,366,98.6,Ozone
+48-029-0032,2020,Bexar,Leon Valley,San Antonio Northwest,366,366,100.0,Ozone
+48-029-0032,2021,Bexar,Leon Valley,San Antonio Northwest,357,365,97.8,Ozone
+48-029-0032,2022,Bexar,Leon Valley,San Antonio Northwest,365,365,100.0,Ozone
+48-029-0032,2023,Bexar,Leon Valley,San Antonio Northwest,365,365,100.0,Ozone
+48-029-0032,2024,Bexar,Leon Valley,San Antonio Northwest,354,366,96.7,Ozone
+48-029-0052,2020,Bexar,San Antonio,Camp Bullis,356,366,97.3,Ozone
+48-029-0052,2021,Bexar,San Antonio,Camp Bullis,353,365,96.7,Ozone
+48-029-0052,2022,Bexar,San Antonio,Camp Bullis,365,365,100.0,Ozone
+48-029-0052,2023,Bexar,San Antonio,Camp Bullis,365,365,100.0,Ozone
+48-029-0052,2024,Bexar,San Antonio,Camp Bullis,366,366,100.0,Ozone
+48-029-0059,2020,Bexar,San Antonio,Calaveras Lake,359,366,98.1,Ozone
+48-029-0059,2021,Bexar,San Antonio,Calaveras Lake,358,365,98.1,Ozone
+48-029-0059,2022,Bexar,San Antonio,Calaveras Lake,363,365,99.5,Ozone
+48-029-0059,2023,Bexar,San Antonio,Calaveras Lake,362,365,99.2,Ozone
+48-029-0059,2024,Bexar,San Antonio,Calaveras Lake,357,366,97.5,Ozone
+48-039-1004,2020,Brazoria,Manvel,Manvel Croix Park,366,366,100.0,Ozone
+48-039-1004,2021,Brazoria,Manvel,Manvel Croix Park,360,365,98.6,Ozone
+48-039-1004,2022,Brazoria,Manvel,Manvel Croix Park,361,365,98.9,Ozone
+48-039-1004,2023,Brazoria,Manvel,Manvel Croix Park,363,365,99.5,Ozone
+48-039-1004,2024,Brazoria,Manvel,Manvel Croix Park,363,366,99.2,Ozone
+48-039-1016,2020,Brazoria,Lake Jackson,Lake Jackson,357,366,97.5,Ozone
+48-039-1016,2021,Brazoria,Lake Jackson,Lake Jackson,353,365,96.7,Ozone
+48-039-1016,2022,Brazoria,Lake Jackson,Lake Jackson,353,365,96.7,Ozone
+48-039-1016,2023,Brazoria,Lake Jackson,Lake Jackson,350,365,95.9,Ozone
+48-039-1016,2024,Brazoria,Lake Jackson,Lake Jackson,364,366,99.5,Ozone
+48-043-0101,2020,Brewster,Not in a city,Big Bend NP,357,366,97.5,Ozone
+48-043-0101,2021,Brewster,Not in a city,Big Bend NP,349,365,95.6,Ozone
+48-043-0101,2022,Brewster,Not in a city,Big Bend NP,352,365,96.4,Ozone
+48-043-0101,2023,Brewster,Not in a city,Big Bend NP,347,365,95.1,Ozone
+48-043-0101,2024,Brewster,Not in a city,Big Bend NP,306,366,83.6,Ozone
+48-061-1023,2020,Cameron,Harlingen,Harlingen Teege,321,366,87.7,Ozone
+48-061-1023,2021,Cameron,Harlingen,Harlingen Teege,365,365,100.0,Ozone
+48-061-1023,2022,Cameron,Harlingen,Harlingen Teege,361,365,98.9,Ozone
+48-061-1023,2023,Cameron,Harlingen,Harlingen Teege,365,365,100.0,Ozone
+48-061-1023,2024,Cameron,Harlingen,Harlingen Teege,354,366,96.7,Ozone
+48-085-0005,2020,Collin,Frisco,Frisco,366,366,100.0,Ozone
+48-085-0005,2021,Collin,Frisco,Frisco,362,365,99.2,Ozone
+48-085-0005,2022,Collin,Frisco,Frisco,361,365,98.9,Ozone
+48-085-0005,2023,Collin,Frisco,Frisco,360,365,98.6,Ozone
+48-085-0005,2024,Collin,Frisco,Frisco,366,366,100.0,Ozone
+48-109-0002,2020,Culberson,Not in a city,Guadalupe Mountains National Park - Maintenance Area,130,366,35.5,Ozone
+48-109-0002,2021,Culberson,Not in a city,Guadalupe Mountains National Park - Maintenance Area,153,365,41.9,Ozone
+48-109-0002,2022,Culberson,Not in a city,Guadalupe Mountains National Park - Maintenance Area,91,365,24.9,Ozone
+48-113-0069,2020,Dallas,Dallas,Dallas Hinton,363,366,99.2,Ozone
+48-113-0069,2021,Dallas,Dallas,Dallas Hinton,361,365,98.9,Ozone
+48-113-0069,2022,Dallas,Dallas,Dallas Hinton,318,365,87.1,Ozone
+48-113-0069,2023,Dallas,Dallas,Dallas Hinton,365,365,100.0,Ozone
+48-113-0069,2024,Dallas,Dallas,Dallas Hinton,317,366,86.6,Ozone
+48-113-0075,2020,Dallas,Dallas,Dallas North #2,366,366,100.0,Ozone
+48-113-0075,2021,Dallas,Dallas,Dallas North #2,362,365,99.2,Ozone
+48-113-0075,2022,Dallas,Dallas,Dallas North #2,323,365,88.5,Ozone
+48-113-0075,2023,Dallas,Dallas,Dallas North #2,311,365,85.2,Ozone
+48-113-0075,2024,Dallas,Dallas,Dallas North #2,347,366,94.8,Ozone
+48-113-0087,2020,Dallas,Dallas,Dallas Redbird Airport Executive,303,366,82.8,Ozone
+48-113-0087,2021,Dallas,Dallas,Dallas Redbird Airport Executive,365,365,100.0,Ozone
+48-113-0087,2022,Dallas,Dallas,Dallas Redbird Airport Executive,356,365,97.5,Ozone
+48-113-0087,2023,Dallas,Dallas,Dallas Redbird Airport Executive,315,365,86.3,Ozone
+48-113-0087,2024,Dallas,Dallas,Dallas Redbird Airport Executive,360,366,98.4,Ozone
+48-121-0034,2020,Denton,Denton,Denton Airport South,366,366,100.0,Ozone
+48-121-0034,2021,Denton,Denton,Denton Airport South,359,365,98.4,Ozone
+48-121-0034,2022,Denton,Denton,Denton Airport South,362,365,99.2,Ozone
+48-121-0034,2023,Denton,Denton,Denton Airport South,307,365,84.1,Ozone
+48-121-0034,2024,Denton,Denton,Denton Airport South,358,366,97.8,Ozone
+48-121-1032,2020,Denton,Pilot Point,Pilot Point,363,366,99.2,Ozone
+48-121-1032,2021,Denton,Pilot Point,Pilot Point,364,365,99.7,Ozone
+48-121-1032,2022,Denton,Pilot Point,Pilot Point,360,365,98.6,Ozone
+48-121-1032,2023,Denton,Pilot Point,Pilot Point,365,365,100.0,Ozone
+48-121-1032,2024,Denton,Pilot Point,Pilot Point,365,366,99.7,Ozone
+48-139-0016,2020,Ellis,Midlothian,Midlothian OFW,362,366,98.9,Ozone
+48-139-0016,2021,Ellis,Midlothian,Midlothian OFW,363,365,99.5,Ozone
+48-139-0016,2022,Ellis,Midlothian,Midlothian OFW,111,365,30.4,Ozone
+48-139-1044,2020,Ellis,Italy,Italy,365,366,99.7,Ozone
+48-139-1044,2021,Ellis,Italy,Italy,363,365,99.5,Ozone
+48-139-1044,2022,Ellis,Italy,Italy,365,365,100.0,Ozone
+48-139-1044,2023,Ellis,Italy,Italy,341,365,93.4,Ozone
+48-139-1044,2024,Ellis,Italy,Italy,365,366,99.7,Ozone
+48-141-0029,2020,El Paso,El Paso,Ivanhoe,366,366,100.0,Ozone
+48-141-0029,2021,El Paso,El Paso,Ivanhoe,284,365,77.8,Ozone
+48-141-0029,2022,El Paso,El Paso,Ivanhoe,364,365,99.7,Ozone
+48-141-0029,2023,El Paso,El Paso,Ivanhoe,365,365,100.0,Ozone
+48-141-0029,2024,El Paso,El Paso,Ivanhoe,365,366,99.7,Ozone
+48-141-0037,2020,El Paso,El Paso,El Paso UTEP,359,366,98.1,Ozone
+48-141-0037,2021,El Paso,El Paso,El Paso UTEP,319,365,87.4,Ozone
+48-141-0044,2020,El Paso,El Paso,El Paso Chamizal,363,366,99.2,Ozone
+48-141-0044,2021,El Paso,El Paso,El Paso Chamizal,365,365,100.0,Ozone
+48-141-0044,2022,El Paso,El Paso,El Paso Chamizal,355,365,97.3,Ozone
+48-141-0044,2023,El Paso,El Paso,El Paso Chamizal,365,365,100.0,Ozone
+48-141-0044,2024,El Paso,El Paso,El Paso Chamizal,366,366,100.0,Ozone
+48-141-0055,2020,El Paso,El Paso,Ascarate Park SE,350,366,95.6,Ozone
+48-141-0055,2021,El Paso,El Paso,Ascarate Park SE,294,365,80.5,Ozone
+48-141-0055,2022,El Paso,El Paso,Ascarate Park SE,327,365,89.6,Ozone
+48-141-0055,2023,El Paso,El Paso,Ascarate Park SE,361,365,98.9,Ozone
+48-141-0055,2024,El Paso,El Paso,Ascarate Park SE,366,366,100.0,Ozone
+48-141-0057,2020,El Paso,Socorro,Socorro Hueco,362,366,98.9,Ozone
+48-141-0057,2021,El Paso,Socorro,Socorro Hueco,322,365,88.2,Ozone
+48-141-0057,2022,El Paso,Socorro,Socorro Hueco,365,365,100.0,Ozone
+48-141-0057,2023,El Paso,Socorro,Socorro Hueco,364,365,99.7,Ozone
+48-141-0057,2024,El Paso,Socorro,Socorro Hueco,366,366,100.0,Ozone
+48-141-0058,2020,El Paso,El Paso,Skyline Park,366,366,100.0,Ozone
+48-141-0058,2021,El Paso,El Paso,Skyline Park,364,365,99.7,Ozone
+48-141-0058,2022,El Paso,El Paso,Skyline Park,327,365,89.6,Ozone
+48-141-0058,2023,El Paso,El Paso,Skyline Park,351,365,96.2,Ozone
+48-141-0058,2024,El Paso,El Paso,Skyline Park,348,366,95.1,Ozone
+48-141-1021,2021,El Paso,El Paso,Ojo De Agua,241,365,66.0,Ozone
+48-141-1021,2022,El Paso,El Paso,Ojo De Agua,338,365,92.6,Ozone
+48-141-1021,2023,El Paso,El Paso,Ojo De Agua,360,365,98.6,Ozone
+48-141-1021,2024,El Paso,El Paso,Ojo De Agua,364,366,99.5,Ozone
+48-167-1034,2020,Galveston,Galveston,Galveston 99th Street,357,366,97.5,Ozone
+48-167-1034,2021,Galveston,Galveston,Galveston 99th Street,351,365,96.2,Ozone
+48-167-1034,2022,Galveston,Galveston,Galveston 99th Street,361,365,98.9,Ozone
+48-167-1034,2023,Galveston,Galveston,Galveston 99th Street,317,365,86.8,Ozone
+48-167-1034,2024,Galveston,Galveston,Galveston 99th Street,359,366,98.1,Ozone
+48-183-0001,2020,Gregg,Longview,Longview,358,366,97.8,Ozone
+48-183-0001,2021,Gregg,Longview,Longview,365,365,100.0,Ozone
+48-183-0001,2022,Gregg,Longview,Longview,365,365,100.0,Ozone
+48-183-0001,2023,Gregg,Longview,Longview,365,365,100.0,Ozone
+48-183-0001,2024,Gregg,Longview,Longview,354,366,96.7,Ozone
+48-201-0024,2020,Harris,Houston,Houston Aldine,352,366,96.2,Ozone
+48-201-0024,2021,Harris,Houston,Houston Aldine,351,365,96.2,Ozone
+48-201-0024,2022,Harris,Houston,Houston Aldine,349,365,95.6,Ozone
+48-201-0024,2023,Harris,Houston,Houston Aldine,331,365,90.7,Ozone
+48-201-0024,2024,Harris,Houston,Houston Aldine,363,366,99.2,Ozone
+48-201-0026,2020,Harris,Channelview,Channelview,365,366,99.7,Ozone
+48-201-0026,2021,Harris,Channelview,Channelview,362,365,99.2,Ozone
+48-201-0026,2022,Harris,Channelview,Channelview,365,365,100.0,Ozone
+48-201-0026,2023,Harris,Channelview,Channelview,365,365,100.0,Ozone
+48-201-0026,2024,Harris,Channelview,Channelview,359,366,98.1,Ozone
+48-201-0029,2020,Harris,Tomball,Northwest Harris County,357,366,97.5,Ozone
+48-201-0029,2021,Harris,Tomball,Northwest Harris County,364,365,99.7,Ozone
+48-201-0029,2022,Harris,Tomball,Northwest Harris County,365,365,100.0,Ozone
+48-201-0029,2023,Harris,Tomball,Northwest Harris County,341,365,93.4,Ozone
+48-201-0029,2024,Harris,Tomball,Northwest Harris County,364,366,99.5,Ozone
+48-201-0046,2020,Harris,Houston,Houston North Wayside,362,366,98.9,Ozone
+48-201-0046,2021,Harris,Houston,Houston North Wayside,355,365,97.3,Ozone
+48-201-0046,2022,Harris,Houston,Houston North Wayside,357,365,97.8,Ozone
+48-201-0046,2023,Harris,Houston,Houston North Wayside,357,365,97.8,Ozone
+48-201-0046,2024,Harris,Houston,Houston North Wayside,361,366,98.6,Ozone
+48-201-0047,2020,Harris,Houston,Lang,365,366,99.7,Ozone
+48-201-0047,2021,Harris,Houston,Lang,364,365,99.7,Ozone
+48-201-0047,2022,Harris,Houston,Lang,363,365,99.5,Ozone
+48-201-0047,2023,Harris,Houston,Lang,362,365,99.2,Ozone
+48-201-0047,2024,Harris,Houston,Lang,344,366,94.0,Ozone
+48-201-0051,2020,Harris,Houston,Houston Croquet,364,366,99.5,Ozone
+48-201-0051,2021,Harris,Houston,Houston Croquet,361,365,98.9,Ozone
+48-201-0051,2022,Harris,Houston,Houston Croquet,363,365,99.5,Ozone
+48-201-0051,2023,Harris,Houston,Houston Croquet,364,365,99.7,Ozone
+48-201-0051,2024,Harris,Houston,Houston Croquet,361,366,98.6,Ozone
+48-201-0055,2020,Harris,Houston,Houston Bayland Park,340,366,92.9,Ozone
+48-201-0055,2021,Harris,Houston,Houston Bayland Park,284,365,77.8,Ozone
+48-201-0055,2022,Harris,Houston,Houston Bayland Park,343,365,94.0,Ozone
+48-201-0055,2023,Harris,Houston,Houston Bayland Park,352,365,96.4,Ozone
+48-201-0055,2024,Harris,Houston,Houston Bayland Park,361,366,98.6,Ozone
+48-201-0062,2020,Harris,Houston,Houston Monroe,357,366,97.5,Ozone
+48-201-0062,2021,Harris,Houston,Houston Monroe,356,365,97.5,Ozone
+48-201-0062,2022,Harris,Houston,Houston Monroe,363,365,99.5,Ozone
+48-201-0062,2023,Harris,Houston,Houston Monroe,362,365,99.2,Ozone
+48-201-0062,2024,Harris,Houston,Houston Monroe,334,366,91.3,Ozone
+48-201-0066,2020,Harris,Houston,Houston Westhollow,362,366,98.9,Ozone
+48-201-0066,2021,Harris,Houston,Houston Westhollow,362,365,99.2,Ozone
+48-201-0066,2022,Harris,Houston,Houston Westhollow,365,365,100.0,Ozone
+48-201-0066,2023,Harris,Houston,Houston Westhollow,356,365,97.5,Ozone
+48-201-0066,2024,Harris,Houston,Houston Westhollow,355,366,97.0,Ozone
+48-201-0416,2020,Harris,Houston,Park Place,362,366,98.9,Ozone
+48-201-0416,2021,Harris,Houston,Park Place,365,365,100.0,Ozone
+48-201-0416,2022,Harris,Houston,Park Place,359,365,98.4,Ozone
+48-201-0416,2023,Harris,Houston,Park Place,363,365,99.5,Ozone
+48-201-0416,2024,Harris,Houston,Park Place,355,366,97.0,Ozone
+48-201-0417,2021,Harris,Houston,Houston Harvard Street,336,365,92.1,Ozone
+48-201-0417,2022,Harris,Houston,Houston Harvard Street,363,365,99.5,Ozone
+48-201-0417,2023,Harris,Houston,Houston Harvard Street,365,365,100.0,Ozone
+48-201-0417,2024,Harris,Houston,Houston Harvard Street,364,366,99.5,Ozone
+48-201-1015,2020,Harris,Houston,Lynchburg Ferry,362,366,98.9,Ozone
+48-201-1015,2021,Harris,Houston,Lynchburg Ferry,362,365,99.2,Ozone
+48-201-1015,2022,Harris,Houston,Lynchburg Ferry,362,365,99.2,Ozone
+48-201-1015,2023,Harris,Houston,Lynchburg Ferry,360,365,98.6,Ozone
+48-201-1015,2024,Harris,Houston,Lynchburg Ferry,354,366,96.7,Ozone
+48-201-1017,2020,Harris,Baytown,Baytown Garth,365,366,99.7,Ozone
+48-201-1017,2021,Harris,Baytown,Baytown Garth,364,365,99.7,Ozone
+48-201-1017,2022,Harris,Baytown,Baytown Garth,360,365,98.6,Ozone
+48-201-1017,2023,Harris,Baytown,Baytown Garth,355,365,97.3,Ozone
+48-201-1017,2024,Harris,Baytown,Baytown Garth,365,366,99.7,Ozone
+48-201-1034,2020,Harris,Houston,Houston East,361,366,98.6,Ozone
+48-201-1034,2021,Harris,Houston,Houston East,359,365,98.4,Ozone
+48-201-1034,2022,Harris,Houston,Houston East,362,365,99.2,Ozone
+48-201-1034,2023,Harris,Houston,Houston East,357,365,97.8,Ozone
+48-201-1034,2024,Harris,Houston,Houston East,346,366,94.5,Ozone
+48-201-1035,2020,Harris,Houston,Clinton,360,366,98.4,Ozone
+48-201-1035,2021,Harris,Houston,Clinton,363,365,99.5,Ozone
+48-201-1035,2022,Harris,Houston,Clinton,352,365,96.4,Ozone
+48-201-1035,2023,Harris,Houston,Clinton,350,365,95.9,Ozone
+48-201-1035,2024,Harris,Houston,Clinton,353,366,96.4,Ozone
+48-201-1039,2020,Harris,Deer Park,Houston Deer Park #2,363,366,99.2,Ozone
+48-201-1039,2021,Harris,Deer Park,Houston Deer Park #2,364,365,99.7,Ozone
+48-201-1039,2022,Harris,Deer Park,Houston Deer Park #2,365,365,100.0,Ozone
+48-201-1039,2023,Harris,Deer Park,Houston Deer Park #2,365,365,100.0,Ozone
+48-201-1039,2024,Harris,Deer Park,Houston Deer Park #2,361,366,98.6,Ozone
+48-201-1050,2020,Harris,Seabrook,Seabrook Friendship Park,364,366,99.5,Ozone
+48-201-1050,2021,Harris,Seabrook,Seabrook Friendship Park,364,365,99.7,Ozone
+48-201-1050,2022,Harris,Seabrook,Seabrook Friendship Park,341,365,93.4,Ozone
+48-201-1050,2023,Harris,Seabrook,Seabrook Friendship Park,365,365,100.0,Ozone
+48-201-1050,2024,Harris,Seabrook,Seabrook Friendship Park,354,366,96.7,Ozone
+48-203-0002,2020,Harrison,Not in a city,Karnack,365,366,99.7,Ozone
+48-203-0002,2021,Harrison,Not in a city,Karnack,363,365,99.5,Ozone
+48-203-0002,2022,Harrison,Not in a city,Karnack,323,365,88.5,Ozone
+48-203-0002,2023,Harrison,Not in a city,Karnack,348,365,95.3,Ozone
+48-203-0002,2024,Harrison,Not in a city,Karnack,366,366,100.0,Ozone
+48-215-0043,2020,Hidalgo,Mission,Mission,308,366,84.2,Ozone
+48-215-0043,2021,Hidalgo,Mission,Mission,354,365,97.0,Ozone
+48-215-0043,2022,Hidalgo,Mission,Mission,310,365,84.9,Ozone
+48-215-0043,2023,Hidalgo,Mission,Mission,83,365,22.7,Ozone
+48-215-0043,2024,Hidalgo,Mission,Mission,278,366,76.0,Ozone
+48-221-0001,2020,Hood,Granbury,Granbury,365,366,99.7,Ozone
+48-221-0001,2021,Hood,Granbury,Granbury,364,365,99.7,Ozone
+48-221-0001,2022,Hood,Granbury,Granbury,365,365,100.0,Ozone
+48-221-0001,2023,Hood,Granbury,Granbury,365,365,100.0,Ozone
+48-221-0001,2024,Hood,Granbury,Granbury,357,366,97.5,Ozone
+48-231-1006,2020,Hunt,Greenville,Greenville,366,366,100.0,Ozone
+48-231-1006,2021,Hunt,Greenville,Greenville,363,365,99.5,Ozone
+48-231-1006,2022,Hunt,Greenville,Greenville,363,365,99.5,Ozone
+48-231-1006,2023,Hunt,Greenville,Greenville,359,365,98.4,Ozone
+48-231-1006,2024,Hunt,Greenville,Greenville,351,366,95.9,Ozone
+48-245-0009,2020,Jefferson,Beaumont,Beaumont Downtown,363,366,99.2,Ozone
+48-245-0009,2021,Jefferson,Beaumont,Beaumont Downtown,344,365,94.2,Ozone
+48-245-0009,2022,Jefferson,Beaumont,Beaumont Downtown,348,365,95.3,Ozone
+48-245-0009,2023,Jefferson,Beaumont,Beaumont Downtown,355,365,97.3,Ozone
+48-245-0009,2024,Jefferson,Beaumont,Beaumont Downtown,363,366,99.2,Ozone
+48-245-0011,2020,Jefferson,Port Arthur,Port Arthur West,354,366,96.7,Ozone
+48-245-0011,2021,Jefferson,Port Arthur,Port Arthur West,365,365,100.0,Ozone
+48-245-0011,2022,Jefferson,Port Arthur,Port Arthur West,320,365,87.7,Ozone
+48-245-0011,2023,Jefferson,Port Arthur,Port Arthur West,343,365,94.0,Ozone
+48-245-0011,2024,Jefferson,Port Arthur,Port Arthur West,360,366,98.4,Ozone
+48-245-0022,2020,Jefferson,Not in a city,Hamshire,360,366,98.4,Ozone
+48-245-0022,2021,Jefferson,Not in a city,Hamshire,363,365,99.5,Ozone
+48-245-0022,2022,Jefferson,Not in a city,Hamshire,303,365,83.0,Ozone
+48-245-0022,2023,Jefferson,Not in a city,Hamshire,344,365,94.2,Ozone
+48-245-0022,2024,Jefferson,Not in a city,Hamshire,363,366,99.2,Ozone
+48-245-0101,2020,Jefferson,Port Arthur,SETRPC  40  Sabine Pass,315,366,86.1,Ozone
+48-245-0101,2021,Jefferson,Port Arthur,SETRPC  40  Sabine Pass,353,365,96.7,Ozone
+48-245-0101,2022,Jefferson,Port Arthur,SETRPC  40  Sabine Pass,360,365,98.6,Ozone
+48-245-0101,2023,Jefferson,Port Arthur,SETRPC  40  Sabine Pass,360,365,98.6,Ozone
+48-245-0101,2024,Jefferson,Port Arthur,SETRPC  40  Sabine Pass,353,366,96.4,Ozone
+48-245-0102,2020,Jefferson,Port Arthur,SETRPC 43 Jefferson Co Airport,357,366,97.5,Ozone
+48-245-0102,2021,Jefferson,Port Arthur,SETRPC 43 Jefferson Co Airport,341,365,93.4,Ozone
+48-245-0102,2022,Jefferson,Port Arthur,SETRPC 43 Jefferson Co Airport,365,365,100.0,Ozone
+48-245-0102,2023,Jefferson,Port Arthur,SETRPC 43 Jefferson Co Airport,361,365,98.9,Ozone
+48-245-0102,2024,Jefferson,Port Arthur,SETRPC 43 Jefferson Co Airport,353,366,96.4,Ozone
+48-245-1035,2020,Jefferson,Nederland,Nederland 17th Street,353,366,96.4,Ozone
+48-245-1035,2021,Jefferson,Nederland,Nederland 17th Street,327,365,89.6,Ozone
+48-245-1035,2022,Jefferson,Nederland,Nederland 17th Street,217,365,59.5,Ozone
+48-245-1035,2023,Jefferson,Nederland,Nederland 17th Street,360,365,98.6,Ozone
+48-245-1035,2024,Jefferson,Nederland,Nederland 17th Street,365,366,99.7,Ozone
+48-251-0003,2020,Johnson,Cleburne,Cleburne Airport,351,366,95.9,Ozone
+48-251-0003,2021,Johnson,Cleburne,Cleburne Airport,364,365,99.7,Ozone
+48-251-0003,2022,Johnson,Cleburne,Cleburne Airport,365,365,100.0,Ozone
+48-251-0003,2023,Johnson,Cleburne,Cleburne Airport,364,365,99.7,Ozone
+48-251-0003,2024,Johnson,Cleburne,Cleburne Airport,357,366,97.5,Ozone
+48-257-0005,2020,Kaufman,Kaufman,Kaufman,364,366,99.5,Ozone
+48-257-0005,2021,Kaufman,Kaufman,Kaufman,350,365,95.9,Ozone
+48-257-0005,2022,Kaufman,Kaufman,Kaufman,360,365,98.6,Ozone
+48-257-0005,2023,Kaufman,Kaufman,Kaufman,364,365,99.7,Ozone
+48-257-0005,2024,Kaufman,Kaufman,Kaufman,349,366,95.4,Ozone
+48-309-1037,2020,McLennan,Waco,Waco Mazanec,365,366,99.7,Ozone
+48-309-1037,2021,McLennan,Waco,Waco Mazanec,361,365,98.9,Ozone
+48-309-1037,2022,McLennan,Waco,Waco Mazanec,362,365,99.2,Ozone
+48-309-1037,2023,McLennan,Waco,Waco Mazanec,349,365,95.6,Ozone
+48-309-1037,2024,McLennan,Waco,Waco Mazanec,354,366,96.7,Ozone
+48-339-0078,2020,Montgomery,Conroe,Conroe Relocated,363,366,99.2,Ozone
+48-339-0078,2021,Montgomery,Conroe,Conroe Relocated,361,365,98.9,Ozone
+48-339-0078,2022,Montgomery,Conroe,Conroe Relocated,365,365,100.0,Ozone
+48-339-0078,2023,Montgomery,Conroe,Conroe Relocated,365,365,100.0,Ozone
+48-339-0078,2024,Montgomery,Conroe,Conroe Relocated,351,366,95.9,Ozone
+48-349-1051,2020,Navarro,Corsicana,Corsicana Airport,358,366,97.8,Ozone
+48-349-1051,2021,Navarro,Corsicana,Corsicana Airport,363,365,99.5,Ozone
+48-349-1051,2022,Navarro,Corsicana,Corsicana Airport,365,365,100.0,Ozone
+48-349-1051,2023,Navarro,Corsicana,Corsicana Airport,363,365,99.5,Ozone
+48-349-1051,2024,Navarro,Corsicana,Corsicana Airport,366,366,100.0,Ozone
+48-355-0025,2020,Nueces,Corpus Christi,Corpus Christi West,360,366,98.4,Ozone
+48-355-0025,2021,Nueces,Corpus Christi,Corpus Christi West,353,365,96.7,Ozone
+48-355-0025,2022,Nueces,Corpus Christi,Corpus Christi West,358,365,98.1,Ozone
+48-355-0025,2023,Nueces,Corpus Christi,Corpus Christi West,361,365,98.9,Ozone
+48-355-0025,2024,Nueces,Corpus Christi,Corpus Christi West,366,366,100.0,Ozone
+48-355-0026,2020,Nueces,Corpus Christi,Corpus Christi Tuloso,337,366,92.1,Ozone
+48-355-0026,2021,Nueces,Corpus Christi,Corpus Christi Tuloso,363,365,99.5,Ozone
+48-355-0026,2022,Nueces,Corpus Christi,Corpus Christi Tuloso,358,365,98.1,Ozone
+48-355-0026,2023,Nueces,Corpus Christi,Corpus Christi Tuloso,365,365,100.0,Ozone
+48-355-0026,2024,Nueces,Corpus Christi,Corpus Christi Tuloso,366,366,100.0,Ozone
+48-361-1001,2020,Orange,West Orange,West Orange,352,366,96.2,Ozone
+48-361-1001,2021,Orange,West Orange,West Orange,358,365,98.1,Ozone
+48-361-1001,2022,Orange,West Orange,West Orange,357,365,97.8,Ozone
+48-361-1001,2023,Orange,West Orange,West Orange,348,365,95.3,Ozone
+48-361-1001,2024,Orange,West Orange,West Orange,362,366,98.9,Ozone
+48-367-0081,2020,Parker,Weatherford,Parker County,363,366,99.2,Ozone
+48-367-0081,2021,Parker,Weatherford,Parker County,356,365,97.5,Ozone
+48-367-0081,2022,Parker,Weatherford,Parker County,365,365,100.0,Ozone
+48-367-0081,2023,Parker,Weatherford,Parker County,364,365,99.7,Ozone
+48-367-0081,2024,Parker,Weatherford,Parker County,365,366,99.7,Ozone
+48-373-9991,2020,Polk,Not in a city,Alabama-Coushatta,360,366,98.4,Ozone
+48-373-9991,2021,Polk,Not in a city,Alabama-Coushatta,356,365,97.5,Ozone
+48-373-9991,2022,Polk,Not in a city,Alabama-Coushatta,333,365,91.2,Ozone
+48-373-9991,2023,Polk,Not in a city,Alabama-Coushatta,359,365,98.4,Ozone
+48-373-9991,2024,Polk,Not in a city,Alabama-Coushatta,356,366,97.3,Ozone
+48-381-9991,2020,Randall,Not in a city,Palo Duro,358,366,97.8,Ozone
+48-381-9991,2021,Randall,Not in a city,Palo Duro,363,365,99.5,Ozone
+48-381-9991,2022,Randall,Not in a city,Palo Duro,341,365,93.4,Ozone
+48-381-9991,2023,Randall,Not in a city,Palo Duro,365,365,100.0,Ozone
+48-381-9991,2024,Randall,Not in a city,Palo Duro,363,366,99.2,Ozone
+48-397-0001,2020,Rockwall,Rockwall,Rockwall Heath,364,366,99.5,Ozone
+48-397-0001,2021,Rockwall,Rockwall,Rockwall Heath,364,365,99.7,Ozone
+48-397-0001,2022,Rockwall,Rockwall,Rockwall Heath,365,365,100.0,Ozone
+48-397-0001,2023,Rockwall,Rockwall,Rockwall Heath,352,365,96.4,Ozone
+48-397-0001,2024,Rockwall,Rockwall,Rockwall Heath,355,366,97.0,Ozone
+48-423-0007,2020,Smith,Tyler,Tyler Airport Relocated,366,366,100.0,Ozone
+48-423-0007,2021,Smith,Tyler,Tyler Airport Relocated,359,365,98.4,Ozone
+48-423-0007,2022,Smith,Tyler,Tyler Airport Relocated,361,365,98.9,Ozone
+48-423-0007,2023,Smith,Tyler,Tyler Airport Relocated,365,365,100.0,Ozone
+48-423-0007,2024,Smith,Tyler,Tyler Airport Relocated,366,366,100.0,Ozone
+48-439-0075,2020,Tarrant,Eagle Mountain,Eagle Mountain Lake,358,366,97.8,Ozone
+48-439-0075,2021,Tarrant,Eagle Mountain,Eagle Mountain Lake,352,365,96.4,Ozone
+48-439-0075,2022,Tarrant,Eagle Mountain,Eagle Mountain Lake,364,365,99.7,Ozone
+48-439-0075,2023,Tarrant,Eagle Mountain,Eagle Mountain Lake,364,365,99.7,Ozone
+48-439-0075,2024,Tarrant,Eagle Mountain,Eagle Mountain Lake,358,366,97.8,Ozone
+48-439-1002,2020,Tarrant,Fort Worth,Fort Worth Northwest,330,366,90.2,Ozone
+48-439-1002,2021,Tarrant,Fort Worth,Fort Worth Northwest,365,365,100.0,Ozone
+48-439-1002,2022,Tarrant,Fort Worth,Fort Worth Northwest,362,365,99.2,Ozone
+48-439-1002,2023,Tarrant,Fort Worth,Fort Worth Northwest,364,365,99.7,Ozone
+48-439-1002,2024,Tarrant,Fort Worth,Fort Worth Northwest,358,366,97.8,Ozone
+48-439-2003,2020,Tarrant,Fort Worth,Keller,364,366,99.5,Ozone
+48-439-2003,2021,Tarrant,Fort Worth,Keller,363,365,99.5,Ozone
+48-439-2003,2022,Tarrant,Fort Worth,Keller,365,365,100.0,Ozone
+48-439-2003,2023,Tarrant,Fort Worth,Keller,365,365,100.0,Ozone
+48-439-2003,2024,Tarrant,Fort Worth,Keller,359,366,98.1,Ozone
+48-439-3009,2020,Tarrant,Grapevine,Grapevine Fairway,349,366,95.4,Ozone
+48-439-3009,2021,Tarrant,Grapevine,Grapevine Fairway,365,365,100.0,Ozone
+48-439-3009,2022,Tarrant,Grapevine,Grapevine Fairway,362,365,99.2,Ozone
+48-439-3009,2023,Tarrant,Grapevine,Grapevine Fairway,362,365,99.2,Ozone
+48-439-3009,2024,Tarrant,Grapevine,Grapevine Fairway,366,366,100.0,Ozone
+48-439-3011,2020,Tarrant,Arlington,Arlington Municipal Airport,289,366,79.0,Ozone
+48-439-3011,2021,Tarrant,Arlington,Arlington Municipal Airport,364,365,99.7,Ozone
+48-439-3011,2022,Tarrant,Arlington,Arlington Municipal Airport,340,365,93.2,Ozone
+48-439-3011,2023,Tarrant,Arlington,Arlington Municipal Airport,321,365,87.9,Ozone
+48-439-3011,2024,Tarrant,Arlington,Arlington Municipal Airport,269,366,73.5,Ozone
+48-453-0014,2020,Travis,Austin,Austin North Hills Drive,120,366,32.8,Ozone
+48-453-0014,2021,Travis,Austin,Austin North Hills Drive,363,365,99.5,Ozone
+48-453-0014,2022,Travis,Austin,Austin North Hills Drive,355,365,97.3,Ozone
+48-453-0014,2023,Travis,Austin,Austin North Hills Drive,357,365,97.8,Ozone
+48-453-0014,2024,Travis,Austin,Austin North Hills Drive,366,366,100.0,Ozone
+48-453-0020,2020,Travis,Leander,Austin Audubon Society,365,366,99.7,Ozone
+48-453-0020,2021,Travis,Leander,Austin Audubon Society,361,365,98.9,Ozone
+48-453-0020,2022,Travis,Leander,Austin Audubon Society,365,365,100.0,Ozone
+48-453-0020,2023,Travis,Leander,Austin Audubon Society,328,365,89.9,Ozone
+48-453-0020,2024,Travis,Leander,Austin Audubon Society,363,366,99.2,Ozone
+48-469-0003,2020,Victoria,Victoria,Victoria,331,366,90.4,Ozone
+48-469-0003,2021,Victoria,Victoria,Victoria,365,365,100.0,Ozone
+48-469-0003,2022,Victoria,Victoria,Victoria,358,365,98.1,Ozone
+48-469-0003,2023,Victoria,Victoria,Victoria,359,365,98.4,Ozone
+48-469-0003,2024,Victoria,Victoria,Victoria,366,366,100.0,Ozone
+48-479-0016,2020,Webb,Laredo,Laredo College,359,366,98.1,Ozone
+48-479-0016,2021,Webb,Laredo,Laredo College,194,365,53.2,Ozone
+48-479-0016,2022,Webb,Laredo,Laredo College,54,365,14.8,Ozone
+48-479-0016,2023,Webb,Laredo,Laredo College,364,365,99.7,Ozone
+48-479-0016,2024,Webb,Laredo,Laredo College,366,366,100.0,Ozone

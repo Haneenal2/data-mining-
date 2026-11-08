@@ -1,0 +1,11 @@
+file,parameter_code,pollutant,year,url,bytes,sha256,zip_members,checked_utc
+daily_88101_2020.zip,88101,PM2.5 FRM/FEM Mass,2020,https://aqs.epa.gov/aqsweb/airdata/daily_88101_2020.zip,7911864,18283fe4ffceb53e3091a7fa7de57a2d5b925ce3d56a08d3518021e00212a3ec,daily_88101_2020.csv,2026-11-01T17:22:30+00:00
+daily_88101_2021.zip,88101,PM2.5 FRM/FEM Mass,2021,https://aqs.epa.gov/aqsweb/airdata/daily_88101_2021.zip,9003762,c3f876f8cd898c3bd921db45e1a2dd39c52ed7f5bb48e82a600066a434f6afd4,daily_88101_2021.csv,2026-11-01T17:22:31+00:00
+daily_88101_2022.zip,88101,PM2.5 FRM/FEM Mass,2022,https://aqs.epa.gov/aqsweb/airdata/daily_88101_2022.zip,9687295,82f5035943a447f8edebf1f0b3f774e08b81a250a86295871a8574726d6b2f94,daily_88101_2022.csv,2026-11-01T17:22:32+00:00
+daily_88101_2023.zip,88101,PM2.5 FRM/FEM Mass,2023,https://aqs.epa.gov/aqsweb/airdata/daily_88101_2023.zip,9919616,4b40502e8147419643a1120c666c4aa952633094f21f65475844172bcc78833b,daily_88101_2023.csv,2026-11-01T17:22:32+00:00
+daily_88101_2024.zip,88101,PM2.5 FRM/FEM Mass,2024,https://aqs.epa.gov/aqsweb/airdata/daily_88101_2024.zip,8405604,409c2d884935bd0a4099d640b7c526ecb0af1d3aac049697e34c2f9f69dbe91d,daily_88101_2024.csv,2026-11-01T17:22:33+00:00
+daily_44201_2020.zip,44201,Ozone,2020,https://aqs.epa.gov/aqsweb/airdata/daily_44201_2020.zip,4720880,567b18deb131fc6583b33c1cb2cbf5d0259d800efebfdc36f970382a9655a448,daily_44201_2020.csv,2026-11-01T17:22:58+00:00
+daily_44201_2021.zip,44201,Ozone,2021,https://aqs.epa.gov/aqsweb/airdata/daily_44201_2021.zip,4724567,080a9fec04cb2999e308bde2c6cea6fbc938155d520a2fef8a057ffd8aae1ecf,daily_44201_2021.csv,2026-11-01T17:23:26+00:00
+daily_44201_2022.zip,44201,Ozone,2022,https://aqs.epa.gov/aqsweb/airdata/daily_44201_2022.zip,4619186,0cb205661d626ecedffd35e51a70836e203b8f56ef540ff365d773dd1a3cfd8e,daily_44201_2022.csv,2026-11-01T17:23:51+00:00
+daily_44201_2023.zip,44201,Ozone,2023,https://aqs.epa.gov/aqsweb/airdata/daily_44201_2023.zip,4665012,511cff78de12318301399bb8614a774145cb0f95fb9c522bd405acd82e114bbd,daily_44201_2023.csv,2026-11-01T17:24:19+00:00
+daily_44201_2024.zip,44201,Ozone,2024,https://aqs.epa.gov/aqsweb/airdata/daily_44201_2024.zip,4647416,bb60bb4fd676e94be686af1c2430fcd2fdb5644fce873419ccc752b0e389c12e,daily_44201_2024.csv,2026-11-01T17:24:44+00:00

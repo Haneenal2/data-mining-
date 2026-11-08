@@ -1,0 +1,46 @@
+pollutant,year,method_code,method_name,sample_duration,units_of_measure,records
+PM25,2020,145,R & P Model 2025 PM-2.5 Sequential Air Sampler w/VSCC - Gravimetric,24 HOUR,Micrograms/cubic meter (LC),1446
+PM25,2020,170,Met One BAM-1020 Mass Monitor w/VSCC - Beta Attenuation,1 HOUR,Micrograms/cubic meter (LC),1054
+PM25,2020,170,Met One BAM-1020 Mass Monitor w/VSCC - Beta Attenuation,24-HR BLK AVG,Micrograms/cubic meter (LC),1012
+PM25,2020,209,Met One BAM-1022 Mass Monitor w/ VSCC or TE-PM2.5C - Beta Attenuation,1 HOUR,Micrograms/cubic meter (LC),11588
+PM25,2020,209,Met One BAM-1022 Mass Monitor w/ VSCC or TE-PM2.5C - Beta Attenuation,24-HR BLK AVG,Micrograms/cubic meter (LC),11283
+PM25,2021,145,R & P Model 2025 PM-2.5 Sequential Air Sampler w/VSCC - Gravimetric,24 HOUR,Micrograms/cubic meter (LC),1278
+PM25,2021,170,Met One BAM-1020 Mass Monitor w/VSCC - Beta Attenuation,1 HOUR,Micrograms/cubic meter (LC),1065
+PM25,2021,170,Met One BAM-1020 Mass Monitor w/VSCC - Beta Attenuation,24-HR BLK AVG,Micrograms/cubic meter (LC),1021
+PM25,2021,209,Met One BAM-1022 Mass Monitor w/ VSCC or TE-PM2.5C - Beta Attenuation,1 HOUR,Micrograms/cubic meter (LC),13409
+PM25,2021,209,Met One BAM-1022 Mass Monitor w/ VSCC or TE-PM2.5C - Beta Attenuation,24-HR BLK AVG,Micrograms/cubic meter (LC),13078
+PM25,2022,145,R & P Model 2025 PM-2.5 Sequential Air Sampler w/VSCC - Gravimetric,24 HOUR,Micrograms/cubic meter (LC),982
+PM25,2022,170,Met One BAM-1020 Mass Monitor w/VSCC - Beta Attenuation,1 HOUR,Micrograms/cubic meter (LC),1020
+PM25,2022,170,Met One BAM-1020 Mass Monitor w/VSCC - Beta Attenuation,24-HR BLK AVG,Micrograms/cubic meter (LC),965
+PM25,2022,209,Met One BAM-1022 Mass Monitor w/ VSCC or TE-PM2.5C - Beta Attenuation,1 HOUR,Micrograms/cubic meter (LC),15983
+PM25,2022,209,Met One BAM-1022 Mass Monitor w/ VSCC or TE-PM2.5C - Beta Attenuation,24-HR BLK AVG,Micrograms/cubic meter (LC),15615
+PM25,2023,145,R & P Model 2025 PM-2.5 Sequential Air Sampler w/VSCC - Gravimetric,24 HOUR,Micrograms/cubic meter (LC),910
+PM25,2023,170,Met One BAM-1020 Mass Monitor w/VSCC - Beta Attenuation,1 HOUR,Micrograms/cubic meter (LC),436
+PM25,2023,170,Met One BAM-1020 Mass Monitor w/VSCC - Beta Attenuation,24-HR BLK AVG,Micrograms/cubic meter (LC),426
+PM25,2023,209,Met One BAM-1022 Mass Monitor w/ VSCC or TE-PM2.5C - Beta Attenuation,1 HOUR,Micrograms/cubic meter (LC),16058
+PM25,2023,209,Met One BAM-1022 Mass Monitor w/ VSCC or TE-PM2.5C - Beta Attenuation,24-HR BLK AVG,Micrograms/cubic meter (LC),15703
+PM25,2023,238,Teledyne T640X at 16.67 LPM - Broadband spectroscopy,1 HOUR,Micrograms/cubic meter (LC),112
+PM25,2023,238,Teledyne T640X at 16.67 LPM - Broadband spectroscopy,24-HR BLK AVG,Micrograms/cubic meter (LC),111
+PM25,2023,638,Teledyne T640X at 16.67 LPM w/Network Data Alignment enabled - Broadband spectroscopy,1 HOUR,Micrograms/cubic meter (LC),719
+PM25,2023,638,Teledyne T640X at 16.67 LPM w/Network Data Alignment enabled - Broadband spectroscopy,24-HR BLK AVG,Micrograms/cubic meter (LC),707
+PM25,2023,738,Teledyne T640X at 16.67 LPM (Corrected) - Broadband spectroscopy,1 HOUR,Micrograms/cubic meter (LC),112
+PM25,2023,738,Teledyne T640X at 16.67 LPM (Corrected) - Broadband spectroscopy,24-HR BLK AVG,Micrograms/cubic meter (LC),111
+PM25,2024,145,R & P Model 2025 PM-2.5 Sequential Air Sampler w/VSCC - Gravimetric,24 HOUR,Micrograms/cubic meter (LC),906
+PM25,2024,209,Met One BAM-1022 Mass Monitor w/ VSCC or TE-PM2.5C - Beta Attenuation,1 HOUR,Micrograms/cubic meter (LC),15972
+PM25,2024,209,Met One BAM-1022 Mass Monitor w/ VSCC or TE-PM2.5C - Beta Attenuation,24-HR BLK AVG,Micrograms/cubic meter (LC),15509
+PM25,2024,638,Teledyne T640X at 16.67 LPM w/Network Data Alignment enabled - Broadband spectroscopy,1 HOUR,Micrograms/cubic meter (LC),2828
+PM25,2024,638,Teledyne T640X at 16.67 LPM w/Network Data Alignment enabled - Broadband spectroscopy,24-HR BLK AVG,Micrograms/cubic meter (LC),2800
+Ozone,2020,047,INSTRUMENTAL - ULTRA VIOLET,8-HR RUN AVG BEGIN HOUR,Parts per million,4279
+Ozone,2020,087,INSTRUMENTAL - ULTRA VIOLET ABSORPTION,8-HR RUN AVG BEGIN HOUR,Parts per million,21464
+Ozone,2020,190,Instrumental - UV absorption photometry/UV 2B model 202 and 205,8-HR RUN AVG BEGIN HOUR,Parts per million,130
+Ozone,2021,047,INSTRUMENTAL - ULTRA VIOLET,8-HR RUN AVG BEGIN HOUR,Parts per million,4623
+Ozone,2021,087,INSTRUMENTAL - ULTRA VIOLET ABSORPTION,8-HR RUN AVG BEGIN HOUR,Parts per million,21731
+Ozone,2021,190,Instrumental - UV absorption photometry/UV 2B model 202 and 205,8-HR RUN AVG BEGIN HOUR,Parts per million,153
+Ozone,2021,, - ,8-HR RUN AVG BEGIN HOUR,Parts per million,1
+Ozone,2022,047,INSTRUMENTAL - ULTRA VIOLET,8-HR RUN AVG BEGIN HOUR,Parts per million,4640
+Ozone,2022,087,INSTRUMENTAL - ULTRA VIOLET ABSORPTION,8-HR RUN AVG BEGIN HOUR,Parts per million,20908
+Ozone,2022,190,Instrumental - UV absorption photometry/UV 2B model 202 and 205,8-HR RUN AVG BEGIN HOUR,Parts per million,91
+Ozone,2023,047,INSTRUMENTAL - ULTRA VIOLET,8-HR RUN AVG BEGIN HOUR,Parts per million,4671
+Ozone,2023,087,INSTRUMENTAL - ULTRA VIOLET ABSORPTION,8-HR RUN AVG BEGIN HOUR,Parts per million,20988
+Ozone,2024,047,INSTRUMENTAL - ULTRA VIOLET,8-HR RUN AVG BEGIN HOUR,Parts per million,4172
+Ozone,2024,087,INSTRUMENTAL - ULTRA VIOLET ABSORPTION,8-HR RUN AVG BEGIN HOUR,Parts per million,21782

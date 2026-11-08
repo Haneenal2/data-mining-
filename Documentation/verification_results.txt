@@ -1,0 +1,96 @@
+[PASS] PM25 2020: ZIP has the standard EPA AirData daily header
+[PASS] PM25 2020: ZIP contains only parameter 88101
+[PASS] PM25 2020: ZIP is national (54 state codes)
+[PASS] PM25 2020: all ZIP dates are in 2020
+[PASS] PM25 2020: all 26,383 filtered records are Texas
+[PASS] PM25 2020: filtered rows (26,383) == Texas rows in ZIP (26,383)
+[PASS] PM25 2020: no duplicate monitor-day records
+[PASS] PM25 2020: every original value and date preserved unchanged
+[PASS] PM25 2021: ZIP has the standard EPA AirData daily header
+[PASS] PM25 2021: ZIP contains only parameter 88101
+[PASS] PM25 2021: ZIP is national (54 state codes)
+[PASS] PM25 2021: all ZIP dates are in 2021
+[PASS] PM25 2021: all 29,851 filtered records are Texas
+[PASS] PM25 2021: filtered rows (29,851) == Texas rows in ZIP (29,851)
+[PASS] PM25 2021: no duplicate monitor-day records
+[PASS] PM25 2021: every original value and date preserved unchanged
+[PASS] PM25 2022: ZIP has the standard EPA AirData daily header
+[PASS] PM25 2022: ZIP contains only parameter 88101
+[PASS] PM25 2022: ZIP is national (54 state codes)
+[PASS] PM25 2022: all ZIP dates are in 2022
+[PASS] PM25 2022: all 34,565 filtered records are Texas
+[PASS] PM25 2022: filtered rows (34,565) == Texas rows in ZIP (34,565)
+[PASS] PM25 2022: no duplicate monitor-day records
+[PASS] PM25 2022: every original value and date preserved unchanged
+[PASS] PM25 2023: ZIP has the standard EPA AirData daily header
+[PASS] PM25 2023: ZIP contains only parameter 88101
+[PASS] PM25 2023: ZIP is national (53 state codes)
+[PASS] PM25 2023: all ZIP dates are in 2023
+[PASS] PM25 2023: all 35,405 filtered records are Texas
+[PASS] PM25 2023: filtered rows (35,405) == Texas rows in ZIP (35,405)
+[PASS] PM25 2023: no duplicate monitor-day records
+[PASS] PM25 2023: every original value and date preserved unchanged
+[PASS] PM25 2024: ZIP has the standard EPA AirData daily header
+[PASS] PM25 2024: ZIP contains only parameter 88101
+[PASS] PM25 2024: ZIP is national (53 state codes)
+[PASS] PM25 2024: all ZIP dates are in 2024
+[PASS] PM25 2024: all 38,015 filtered records are Texas
+[PASS] PM25 2024: filtered rows (38,015) == Texas rows in ZIP (38,015)
+[PASS] PM25 2024: no duplicate monitor-day records
+[PASS] PM25 2024: every original value and date preserved unchanged
+[PASS] PM25 combined: years are exactly [2020, 2021, 2022, 2023, 2024]
+[PASS] PM25 combined: year column matches date_local
+[PASS] PM25 combined: rows (164,219) == sum of yearly files (164,219)
+[PASS] PM25 combined: no duplicate records across years
+[PASS] PM25 combined: single unit (Micrograms/cubic meter (LC))
+[PASS] Ozone 2020: ZIP has the standard EPA AirData daily header
+[PASS] Ozone 2020: ZIP contains only parameter 44201
+[PASS] Ozone 2020: ZIP is national (53 state codes)
+[PASS] Ozone 2020: all ZIP dates are in 2020
+[PASS] Ozone 2020: all 25,873 filtered records are Texas
+[PASS] Ozone 2020: filtered rows (25,873) == Texas rows in ZIP (25,873)
+[PASS] Ozone 2020: no duplicate monitor-day records
+[PASS] Ozone 2020: every original value and date preserved unchanged
+[PASS] Ozone 2021: ZIP has the standard EPA AirData daily header
+[PASS] Ozone 2021: ZIP contains only parameter 44201
+[PASS] Ozone 2021: ZIP is national (53 state codes)
+[PASS] Ozone 2021: all ZIP dates are in 2021
+[PASS] Ozone 2021: all 26,508 filtered records are Texas
+[PASS] Ozone 2021: filtered rows (26,508) == Texas rows in ZIP (26,508)
+[PASS] Ozone 2021: no duplicate monitor-day records
+[PASS] Ozone 2021: every original value and date preserved unchanged
+[PASS] Ozone 2022: ZIP has the standard EPA AirData daily header
+[PASS] Ozone 2022: ZIP contains only parameter 44201
+[PASS] Ozone 2022: ZIP is national (53 state codes)
+[PASS] Ozone 2022: all ZIP dates are in 2022
+[PASS] Ozone 2022: all 25,639 filtered records are Texas
+[PASS] Ozone 2022: filtered rows (25,639) == Texas rows in ZIP (25,639)
+[PASS] Ozone 2022: no duplicate monitor-day records
+[PASS] Ozone 2022: every original value and date preserved unchanged
+[PASS] Ozone 2023: ZIP has the standard EPA AirData daily header
+[PASS] Ozone 2023: ZIP contains only parameter 44201
+[PASS] Ozone 2023: ZIP is national (53 state codes)
+[PASS] Ozone 2023: all ZIP dates are in 2023
+[PASS] Ozone 2023: all 25,659 filtered records are Texas
+[PASS] Ozone 2023: filtered rows (25,659) == Texas rows in ZIP (25,659)
+[PASS] Ozone 2023: no duplicate monitor-day records
+[PASS] Ozone 2023: every original value and date preserved unchanged
+[PASS] Ozone 2024: ZIP has the standard EPA AirData daily header
+[PASS] Ozone 2024: ZIP contains only parameter 44201
+[PASS] Ozone 2024: ZIP is national (53 state codes)
+[PASS] Ozone 2024: all ZIP dates are in 2024
+[PASS] Ozone 2024: all 25,954 filtered records are Texas
+[PASS] Ozone 2024: filtered rows (25,954) == Texas rows in ZIP (25,954)
+[PASS] Ozone 2024: no duplicate monitor-day records
+[PASS] Ozone 2024: every original value and date preserved unchanged
+[PASS] Ozone combined: years are exactly [2020, 2021, 2022, 2023, 2024]
+[PASS] Ozone combined: year column matches date_local
+[PASS] Ozone combined: rows (129,633) == sum of yearly files (129,633)
+[PASS] Ozone combined: no duplicate records across years
+[PASS] Ozone combined: single unit (Parts per million)
+[PASS] merged: one row per site per date
+[PASS] merged: all 76,660 PM25 site-days present (none lost)
+[PASS] merged: all 129,617 Ozone site-days present (none lost)
+[PASS] merged: years are exactly 2020-2024
+
+ALL CHECKS PASSED
