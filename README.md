@@ -10,7 +10,7 @@ CSE 4334 Data Mining group project. We use EPA daily air quality data (2020–20
 ## Project status
 - [x] Download EPA data and filter to Texas
 - [x] Data audit (`notebooks/01_data_audit.ipynb`)
-- [ ] Cleaning (`notebooks/02_data_cleaning.ipynb`) – waiting for team approval of the cleaning plan
+- [x] Cleaning (`notebooks/02_data_cleaning.ipynb`)
 - [ ] Research Question 1
 
 ## Folder structure
@@ -19,6 +19,7 @@ CSE 4334 Data Mining group project. We use EPA daily air quality data (2020–20
 | `Original_Datasets/` | Original EPA ZIP files – **never edit these** |
 | `Texas_Filtered_Data/` | Texas rows only, one CSV per pollutant per year |
 | `Combined_Datasets/` | All years stacked per pollutant, plus a PM2.5 + ozone site-day merge |
+| `Cleaned_Data/` | **Use these for analysis** – one row per site per day for PM2.5 and ozone |
 | `notebooks/` | Our Jupyter notebooks (run them in order) |
 | `EDA_Results/` | Figures and tables from the analysis |
 | `Documentation/` | Scripts used to download/filter/combine, stats tables, verification log |
