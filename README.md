@@ -10,7 +10,7 @@ CSE 4334 Data Mining group project. We use EPA daily air quality data (2020–20
 ## Project status
 - [x] Download EPA data and filter to Texas
 - [x] Data audit (`notebooks/01_data_audit.ipynb`)
-- [x] Cleaning (`notebooks/02_data_cleaning.ipynb`)
+- [x] Cleaning and EDA (`notebooks/02_data_cleaning.ipynb`)
 - [ ] Research Question 1
 - [x] Research Question 2 – regression (`notebooks/04_rq2_regression.ipynb`, figures in `EDA_Results/RQ2_regression/`)
 
