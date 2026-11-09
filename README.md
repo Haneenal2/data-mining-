@@ -4,7 +4,7 @@ CSE 4334 Data Mining group project. We use EPA daily air quality data (2020–20
 
 ## Research questions
 1. How do PM2.5 and ozone levels vary across Texas locations and seasons? *(next)*
-2. *TBD*
+2. Can we use historical air quality data to predict pollutant concentrations? (linear regression – `notebooks/04_rq2_regression.ipynb`)
 3. *TBD*
 
 ## Project status
@@ -12,6 +12,7 @@ CSE 4334 Data Mining group project. We use EPA daily air quality data (2020–20
 - [x] Data audit (`notebooks/01_data_audit.ipynb`)
 - [x] Cleaning (`notebooks/02_data_cleaning.ipynb`)
 - [ ] Research Question 1
+- [x] Research Question 2 – regression (`notebooks/04_rq2_regression.ipynb`, figures in `EDA_Results/RQ2_regression/`)
 
 ## Folder structure
 | Folder | What's inside |
