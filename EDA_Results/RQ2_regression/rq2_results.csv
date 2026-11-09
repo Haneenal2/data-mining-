@@ -1,4 +1,7 @@
-,Ozone MAE (ppb),Ozone RMSE (ppb),Ozone R²,PM2.5 MAE (µg/m³),PM2.5 RMSE (µg/m³),PM2.5 R²
-Average baseline,10.425,13.349,-0.015,4.324,7.077,-0.015
-Same as yesterday,7.484,10.079,0.421,3.344,5.494,0.388
-Linear regression,6.957,9.214,0.516,3.072,4.954,0.503
+,Ozone (ppb),PM2.5 (µg/m³)
+predictors kept by BIC,"ozone_yesterday, ozone_2days_ago, ozone_past7_avg, ozone_mean_yesterday, latitude, longitude, C(month)","pm25_yesterday, pm25_2days_ago, pm25_3days_ago, pm25_past7_avg, latitude, longitude, C(month), weekend"
+R² on 2020–2023,0.533,0.433
+adjusted R² on 2020–2023,0.533,0.433
+R² on 2024 (new data),0.531,0.504
+sqrt(MSE) on 2024,9.07,4.96
+2024 values inside 95% PI,0.94,0.926
